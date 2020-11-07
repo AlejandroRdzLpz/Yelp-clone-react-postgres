@@ -14,3 +14,5 @@
   <ul>On your command line, choose directory server and run <code>node server.js</code></ul>
   <ul>Then, go to client directory and run <code>npm start</code></ul>
   <ul>Done!</ul>
+<br><br>
+<h3>You can see a live version <a href="https://pern-yelp-clone-heroku.herokuapp.com/">here</a></h3>
